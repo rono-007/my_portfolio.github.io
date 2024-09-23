@@ -1,4 +1,6 @@
-
+html{
+	scroll-behavior:smooth;
+}
 
 .homeheader {
     height: 100vh;
